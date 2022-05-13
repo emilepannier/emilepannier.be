@@ -82,6 +82,9 @@ main {align-items: center;
     border-right: 2px solid black;
     padding-left: 25% ;}
 
+main img {max-width: 400px;
+        width: 100%;}
+
 aside {flex: 2;
     margin-top: 2em;
     margin-left: 1em;
@@ -134,3 +137,6 @@ article {max-width: 15em;
         padding: 1em;
         margin-bottom: 1em;
         border-radius: 2em;}
+
+#lemoi {max-width: 100%;
+        }
